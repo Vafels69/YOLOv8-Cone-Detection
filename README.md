@@ -83,7 +83,7 @@ Example Output:
    - Trained for 50 epochs with an input size of 640x640.
 
 3. **Metrics:**
-   - Mean Average Precision (mAP): 88.5% (example metric, replace with your results).
+   - Mean Average Precision (mAP): 88.5% (example metric).
 
 4. **Inference:**
    - Real-time detection is possible for videos and images.
